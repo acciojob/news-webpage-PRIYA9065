@@ -15,10 +15,14 @@ section{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	text-align: center;
 	padding: 20px;
 	
 }
 
+.pictorial-news-section{
+	text-align: center;
+}
 .body1{
 	display: flex;
 	justify-content: center;
